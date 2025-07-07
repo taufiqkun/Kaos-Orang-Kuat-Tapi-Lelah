@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Toko deDarkInsight</title>
+    <link>https://taufiqkun.github.io</link>
+    <description>Koleksi kaos absurd dan lucu</description>
+
+    <item>
+      <g:id>DS-OVRTHINK001</g:id>
+      <g:title>Kaos Orang Kuat Tapi Lelah – deDarkInsight Official</g:title>
+      <g:description>Kaos absurd buat kamu orang yang kuat tapi sedang lelah. Cotton combed 24s, sablon plastisol, nyaman buat mikir.</g:description>
+      <g:link>https://taufiqkun.github.io/Kaos-Orang-Kuat-Tapi-Lelah/</g:link>
+      <g:image_link>https://down-id.img.susercontent.com/file/id-11134207-7ra0g-mbt19ibpxj1p82@resize_w450_nl</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>149000 IDR</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>deDarkInsight</g:brand>
+    </item>
+
+  </channel>
+</rss>
